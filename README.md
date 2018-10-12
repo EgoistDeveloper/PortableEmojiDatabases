@@ -6,6 +6,7 @@ OS, Browser, mobile apps, keyboards and more platform supported portable emojis 
 **[Jquery inject to developer console (Optional)](https://stackoverflow.com/a/7474386/6940144)**
 
 ###Warnings
+
 **0-** this tips generally for MySQL databases
 **1-** "char" reserved field for MySQL, we can use "chars" etc ([see documentation](https://dev.mysql.com/doc/refman/5.5/en/keywords.html))
 **2-** database encoding must be utf8mb4 ([see the conversation](https://stackoverflow.com/a/30074553))
