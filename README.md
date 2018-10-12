@@ -1,24 +1,21 @@
 # PortableEmojiDatabases
 OS, Browser, mobile apps, keyboards and more platform supported portable emojis databases
 
-**[Emoji Source](https://unicode.org/emoji/charts/full-emoji-list.html)**
-
-**[Jquery (JS Library / My prefer)](https://jquery.org/)**
-
+**[Emoji Source](https://unicode.org/emoji/charts/full-emoji-list.html)**\
+**[Jquery (JS Library / My prefer)](https://jquery.org/)**\
 **[Jquery inject to developer console (Optional)](https://stackoverflow.com/a/7474386/6940144)**
 
-###Warnings
 
-**0-** this tips generally for MySQL databases
-**1-** "char" reserved field for MySQL, we can use "chars" etc ([see documentation](https://dev.mysql.com/doc/refman/5.5/en/keywords.html))
+### Warnings
+
+**0-** this tips generally for MySQL databases\
+**1-** "char" reserved field for MySQL, we can use "chars" etc ([see documentation](https://dev.mysql.com/doc/refman/5.5/en/keywords.html))\
 **2-** database encoding must be utf8mb4 ([see the conversation](https://stackoverflow.com/a/30074553))
 
 ### Single Unicode Emojis
 
-**Last Fetch Date:** *10.12.2018*
-
-**Browser & Version:** *Opera 56.0.3051.36*
-
+**Last Fetch Date:** *10.12.2018*\
+**Browser & Version:** *Opera 56.0.3051.36*\
 **Header:** *Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36 OPR/56.0.3051.36*
 
 Jquery parser code
