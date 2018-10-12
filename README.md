@@ -2,7 +2,9 @@
 OS, Browser, mobile apps, keyboards and more platform supported portable emojis databases
 
 **[Emoji Source](https://unicode.org/emoji/charts/full-emoji-list.html)**
+
 **[Jquery (JS Library / My prefer)](https://jquery.org/)**
+
 **[Jquery inject to developer console (Optional)](https://stackoverflow.com/a/7474386/6940144)**
 
 ###Warnings
