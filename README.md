@@ -12,8 +12,10 @@ OS, Browser, mobile apps, keyboards and more platform supported portable emojis 
 
 ### Single Unicode Emojis
 
-**Last Fetch Date:** *10.12.2018*\
-**Browser & Version:** *Opera 56.0.3051.36*\
+**Last Fetch Date:** *10.12.2018*
+
+**Browser & Version:** *Opera 56.0.3051.36*
+
 **Header:** *Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36 OPR/56.0.3051.36*
 
 Jquery parser code
